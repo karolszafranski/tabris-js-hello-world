@@ -1,6 +1,6 @@
 // This is a simple Tabris.js app. Feel free to modify as you please.
 
-import {ui, Button, TextView} from 'tabris';
+import {ui, Button, TextInput} from 'tabris';
 import * as tabris from 'tabris';
 
 // Create a push button and add it to the content view
@@ -10,7 +10,7 @@ let button = new Button({
 }).appendTo(ui.contentView);
 
 // Create a text view and add it too
-let textView = new TextView({
+let textView = new TextInput({
   centerX: 0, top: [button, 50],
   font: '24px'
 }).appendTo(ui.contentView);
