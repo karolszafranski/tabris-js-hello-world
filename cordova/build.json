@@ -2,7 +2,7 @@
   "ios": {
     "debug": {
       "developmentTeam": "UW3887MHY3",
-      "provisioningProfile": "faa5009a-c9c3-40b4-83dc-f9db65f2cb11",
+      "provisioningProfile": "02295b99-2f6f-46a6-a69e-28cbe5d9e69b",
       "codeSignIdentity": "iPhone Developer",
       "packageType": "development"
     }
